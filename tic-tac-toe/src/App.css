@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+.square{
+    height: 90px;
+    width: 90px;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+    font-size: 40px;
+}
+.board{
+  position: absolute;
+  border: 5px solid black;
+  border-radius: 10px;
+  left :30%;
+  top: 30%;
+  padding: 10px;
+
+}
+.status{
+  text-align: center;
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  left :30%;
+  top: 20%;
+}
